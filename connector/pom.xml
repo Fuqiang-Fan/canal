@@ -94,7 +94,6 @@
     <modules>
         <module>core</module>
         <module>kafka-connector</module>
-        <module>rocketmq-connector</module>
         <module>rabbitmq-connector</module>
         <module>pulsarmq-connector</module>
         <module>tcp-connector</module>

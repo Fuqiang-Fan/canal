@@ -94,10 +94,6 @@
 		<level value="INFO" />
 		<appender-ref ref="CANAL-ROOT" />
 	</logger>
-	<logger name="com.alibaba.otter.canal.connector.rocketmq" additivity="false">
-		<level value="INFO" />
-		<appender-ref ref="CANAL-ROOT" />
-	</logger>
 	<logger name="com.alibaba.otter.canal.connector.rabbitmq" additivity="false">
 		<level value="INFO" />
 		<appender-ref ref="CANAL-ROOT" />
